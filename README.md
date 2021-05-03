@@ -18,3 +18,5 @@ The game uses incremental idle engine [Idle Game Maker](https://orteil.dashnet.o
 ## Author's contacts
 * Telegram: @yukeevrana
 * E-mail: yukeevrana@gmail.com
+
+If you find a mistakes (you will find **a lot of** mistakes) don't be shy and let me know in any way convenient for you.
