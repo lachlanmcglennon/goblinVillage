@@ -20,3 +20,8 @@ The game uses incremental idle engine [Idle Game Maker](https://orteil.dashnet.o
 * E-mail: yukeevrana@gmail.com
 
 If you find a mistakes (you will find **a lot of** mistakes) don't be shy and let me know in any way convenient for you.
+
+## Tomatoes
+Amount of tomatoes spent on the development:
+* *Documentation* - **1**
+* *Total* - **1**
