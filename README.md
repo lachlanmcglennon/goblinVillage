@@ -23,5 +23,5 @@ If you find a mistakes (you will find **a lot of** mistakes) don't be shy and le
 
 ## Tomatoes
 Amount of [tomatoes](https://github.com/yukeevrana/goblinVillage/wiki/Tomatoes) spent on the development:
-* *Documentation* - **2**
-* *Total* - **2**
+* *Documentation* - **2.5**
+* *Total* - **2.5**
