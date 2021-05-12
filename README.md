@@ -1,6 +1,6 @@
 # Goblin Village
 ## Description
-The incremental idle game about growth and management of a goblin village. The main gameplay consists in the competent distribution of resources and goblin workers. 
+The incremental idle game about growth and management of a goblin village. The main gameplay consists in the logical distribution of resources and goblin workers. 
 
 #### Similar projects:
 * [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/)
